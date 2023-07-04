@@ -1,0 +1,64 @@
+
+    body {
+        background: #E6E6FA;
+
+    }
+    .height {
+        height: 100vh;
+    }
+    .container {
+        margin-top: 25rem;
+        text-align: center;
+    }
+    .form {
+        position: relative;
+        margin-top: -227px;
+    }
+    .form .fa-search {
+        position: absolute;
+        top: 20px;
+        color: #9ca3af;
+        margin-left: 20px;
+    }
+    .form span {
+        position: absolute;
+        right: 22rem;
+        top: 18px;
+        padding: 2px;
+        border-left: 1px solid #e5e9ee;
+    }
+    .left-pan {
+        padding-left: 13px;
+    }
+    .left-pan i {
+        padding-left: 11px;
+    }
+    .form-input {
+        height: 55px;
+        text-indent: 40px;
+        border-radius: 10px;
+        font-size: 18px;
+        outline: 1px;
+        background-color: #E6E6FA;
+    }
+    input[type="text" i] {
+        width: 38%;
+    }
+    .form-control {
+        border: 1px solid #E6E6FA;
+        box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15), -6px -6px 10px -1px rgba(255,255,255,0.7);
+    }
+    .form-input:focus {
+        box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15), -6px -6px 10px -1px rgba(255,255,255,0.7);
+    }
+    .form-input:hover {
+        background-color: rgb(255, 255, 255);
+        box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15), -6px -6px 10px -1px rgba(255,255,255,0.7);
+        transition: .5s;
+    }
+    
+    img {
+        width: 20%;
+        margin-inline: 40%;
+        margin-bottom: -162px;
+    }
