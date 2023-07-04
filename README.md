@@ -1,6 +1,6 @@
 # SearchBarUsingCSS
 
-A visually appealing and user-friendly search bar design created using CSS. With its sleek and modern aesthetic, this search bar adds a touch of elegance to any website.
+A visually appealing and user-friendly search bar design created using CSS. 
 
 ![Screen Shot 2023-07-04 at 8 47 24 PM](https://github.com/minahilx/SearchBarUsingCSS/assets/71601253/3508dc15-18d1-4cde-9a9e-35dd92112593)
 
